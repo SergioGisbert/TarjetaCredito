@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tarjetacredito-d2a00": {
+      "hosting": {
+        "TarjetaCredito": [
+          "tarjetacredito-d2a00"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tarjetacredito-d2a00"
+  }
+}
